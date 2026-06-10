@@ -9,6 +9,7 @@ Below you'll find links to all the presentation decks from MSBuildNYC 2026. Clic
 ### Available Presentations
 
 - [UDDI to MCP - what did we learn in 30 years about findind APIs?](UDDI_MCP_cinematic_export.pdf) - Explaining how the world repeats itself and how MCP is more or less just UDDI wearing an agentic lipstick (Peter Smulovics - @psmulovics )
+- [Observability DeepDive](Observability_DeepDive_MicrosoftBuild_LocalHost_NYC.pdf) - Correlating Logs Across Azure Monitor, App Insights & Distributed Services (Monika Mundra)
 
  
 <!-- 
